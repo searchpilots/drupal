@@ -1,3 +1,9 @@
 /**
  * Place your custom styles here.
  */
+a {
+	color: green;
+}
+a:hover {
+	color: black;
+}
